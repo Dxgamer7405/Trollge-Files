@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rage2.png"><SubTexture name="2TrollgeRageDown0000" x="893" y="588" width="344" height="555" frameX="-42" frameY="-4" frameWidth="421" frameHeight="560" />
+<SubTexture name="2TrollgeRageDown0001" x="0" y="1159" width="387" height="548" frameX="-20" frameY="-11" frameWidth="421" frameHeight="560" />
+<SubTexture name="2TrollgeRageIdle0000" x="585" y="588" width="308" height="566" frameX="-5" frameY="-16" frameWidth="343" frameHeight="583" />
+<SubTexture name="2TrollgeRageIdle0001" x="282" y="588" width="303" height="570" frameX="0" frameY="-12" frameWidth="343" frameHeight="583" />
+<SubTexture name="2TrollgeRageIdle0002" x="602" y="0" width="299" height="578" frameX="-5" frameY="-5" frameWidth="343" frameHeight="583" />
+<SubTexture name="2TrollgeRageLeft0000" x="1487" y="0" width="291" height="554" frameX="-2" frameY="-27" frameWidth="298" frameHeight="582" />
+<SubTexture name="2TrollgeRageLeft0001" x="0" y="588" width="282" height="571" frameX="-16" frameY="-10" frameWidth="298" frameHeight="582" />
+<SubTexture name="2TrollgeRageRight0000" x="872" y="1159" width="485" height="538" frameX="-32" frameY="-17" frameWidth="517" frameHeight="556" />
+<SubTexture name="2TrollgeRageRight0001" x="387" y="1159" width="485" height="543" frameX="-24" frameY="-12" frameWidth="517" frameHeight="556" />
+<SubTexture name="2TrollgeRageUp0000" x="901" y="0" width="586" height="576" frameX="-25" frameY="-20" frameWidth="615" frameHeight="599" />
+<SubTexture name="2TrollgeRageUp0001" x="0" y="0" width="602" height="588" frameX="-13" frameY="-8" frameWidth="615" frameHeight="599" />
+</TextureAtlas>

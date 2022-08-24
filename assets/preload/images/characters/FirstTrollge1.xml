@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FirstTrollge1.png"><SubTexture name="FirstDOWN0000" x="1619" y="804" width="577" height="698" frameX="-41" frameY="-1" frameWidth="643" frameHeight="700" />
+<SubTexture name="FirstDOWN0001" x="2263" y="0" width="577" height="678" frameX="-37" frameY="-21" frameWidth="643" frameHeight="700" />
+<SubTexture name="FirstDOWN0002" x="2840" y="672" width="612" height="652" frameX="-14" frameY="-47" frameWidth="643" frameHeight="700" />
+<SubTexture name="FirstIDLE0000" x="3271" y="1324" width="455" height="645" frameX="0" frameY="-3" frameWidth="455" frameHeight="650" />
+<SubTexture name="FirstIDLE0001" x="2840" y="1324" width="431" height="646" frameX="-14" frameY="0" frameWidth="455" frameHeight="650" />
+<SubTexture name="FirstIDLE0002" x="2263" y="678" width="436" height="645" frameX="-10" frameY="-5" frameWidth="455" frameHeight="650" />
+<SubTexture name="FirstLEFT0000" x="0" y="0" width="511" height="804" frameX="0" frameY="0" frameWidth="511" frameHeight="806" />
+<SubTexture name="FirstLEFT0001" x="511" y="0" width="492" height="787" frameX="-2" frameY="-17" frameWidth="511" frameHeight="806" />
+<SubTexture name="FirstLEFT0002" x="1003" y="0" width="467" height="767" frameX="0" frameY="-37" frameWidth="511" frameHeight="806" />
+<SubTexture name="FirstRIGHT0000" x="0" y="804" width="735" height="733" frameX="-155" frameY="-5" frameWidth="917" frameHeight="738" />
+<SubTexture name="FirstRIGHT0001" x="1470" y="0" width="793" height="738" frameX="-111" frameY="0" frameWidth="917" frameHeight="738" />
+<SubTexture name="FirstRIGHT0002" x="735" y="804" width="884" height="726" frameX="-33" frameY="-12" frameWidth="917" frameHeight="738" />
+<SubTexture name="FirstUP0000" x="2840" y="0" width="921" height="672" frameX="-3" frameY="-56" frameWidth="924" frameHeight="728" />
+<SubTexture name="FirstUP0001" x="817" y="1537" width="883" height="694" frameX="-26" frameY="-34" frameWidth="924" frameHeight="728" />
+<SubTexture name="FirstUP0002" x="0" y="1537" width="817" height="722" frameX="-50" frameY="-6" frameWidth="924" frameHeight="728" />
+</TextureAtlas>

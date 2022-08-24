@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sadm.png"><SubTexture name="TrollfaceIdle0000" x="0" y="0" width="256" height="583" frameX="-2" frameY="-14" frameWidth="263" frameHeight="597" />
+</TextureAtlas>

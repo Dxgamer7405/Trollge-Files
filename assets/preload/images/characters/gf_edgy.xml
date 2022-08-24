@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_edgy.png"><SubTexture name="gf_edgy0000" x="0" y="0" width="292" height="407" frameX="-9" frameY="0" frameWidth="303" frameHeight="408" />
+<SubTexture name="gf_edgy0001" x="292" y="0" width="293" height="407" frameX="-8" frameY="0" frameWidth="303" frameHeight="408" />
+</TextureAtlas>

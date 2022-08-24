@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="postgfmenu.png"><SubTexture name="gf_IDLE0000" x="1570" y="1369" width="785" height="666" frameX="-1" frameY="-21" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0001" x="0" y="1369" width="785" height="667" frameX="-1" frameY="-20" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0002" x="785" y="1369" width="785" height="667" frameX="-1" frameY="-20" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0003" x="1570" y="673" width="785" height="671" frameX="-1" frameY="-16" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0004" x="785" y="686" width="785" height="671" frameX="-1" frameY="-16" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0005" x="1570" y="0" width="786" height="673" frameX="-1" frameY="-14" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0006" x="0" y="686" width="785" height="683" frameX="-1" frameY="-4" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0007" x="0" y="0" width="785" height="686" frameX="-1" frameY="-1" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0008" x="785" y="0" width="785" height="686" frameX="-1" frameY="-1" frameWidth="789" frameHeight="687" />
+</TextureAtlas>

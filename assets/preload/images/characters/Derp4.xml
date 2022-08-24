@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Derp4.png">
+<SubTexture name="DOWN0000" x="796" y="1983" width="825" height="791" frameX="-488" frameY="-2" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="DOWN0001" x="1621" y="1983" width="995" height="737" frameX="-178" frameY="-109" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="IDLE0000" x="2082" y="1109" width="672" height="853" frameX="-71" frameY="-16" frameWidth="1433" frameHeight="1725" />
+<SubTexture name="LEFT0000" x="1229" y="1109" width="853" height="854" frameX="-215" frameY="-235" frameWidth="1923" frameHeight="1967" />
+<SubTexture name="LEFT0001" x="0" y="1983" width="796" height="849" frameX="-144" frameY="-265" frameWidth="1923" frameHeight="1967" />
+<SubTexture name="RIGHT0000" x="874" y="0" width="931" height="1024" frameX="-187" frameY="-458" frameWidth="2471" frameHeight="2508" />
+<SubTexture name="RIGHT0001" x="0" y="0" width="874" height="1109" frameX="-400" frameY="-288" frameWidth="2471" frameHeight="2508" />
+<SubTexture name="UP0000" x="0" y="1109" width="1229" height="874" frameX="-57" frameY="-618" frameWidth="2587" frameHeight="2370" />
+<SubTexture name="UP0001" x="1805" y="0" width="1284" height="886" frameX="-2" frameY="-594" frameWidth="2587" frameHeight="2370" />
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="post_gf.png"><SubTexture name="gf_DOWN0000" x="3141" y="0" width="788" height="659" frameX="0" frameY="0" frameWidth="789" frameHeight="659" />
+<SubTexture name="gf_DOWN0001" x="3141" y="1976" width="785" height="656" frameX="-1" frameY="-3" frameWidth="789" frameHeight="659" />
+<SubTexture name="gf_IDLE0000" x="1574" y="2050" width="788" height="664" frameX="0" frameY="-23" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0001" x="2356" y="1334" width="785" height="666" frameX="-1" frameY="-21" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0002" x="2356" y="0" width="785" height="667" frameX="-1" frameY="-20" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0003" x="0" y="2050" width="786" height="667" frameX="-1" frameY="-20" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0004" x="785" y="1371" width="785" height="671" frameX="-1" frameY="-16" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0005" x="1570" y="1371" width="785" height="671" frameX="-1" frameY="-16" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0006" x="0" y="0" width="785" height="687" frameX="-1" frameY="0" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0007" x="785" y="0" width="785" height="686" frameX="-1" frameY="-1" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0008" x="1570" y="0" width="786" height="679" frameX="-1" frameY="-8" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_IDLE0009" x="1570" y="679" width="785" height="679" frameX="-1" frameY="-8" frameWidth="789" frameHeight="687" />
+<SubTexture name="gf_LEFT0000" x="786" y="2050" width="788" height="666" frameX="0" frameY="0" frameWidth="789" frameHeight="666" />
+<SubTexture name="gf_LEFT0001" x="3141" y="659" width="785" height="659" frameX="-1" frameY="-7" frameWidth="789" frameHeight="666" />
+<SubTexture name="gf_RIGHT0000" x="0" y="687" width="788" height="684" frameX="0" frameY="0" frameWidth="789" frameHeight="684" />
+<SubTexture name="gf_RIGHT0001" x="0" y="1371" width="785" height="679" frameX="-1" frameY="-5" frameWidth="789" frameHeight="684" />
+<SubTexture name="gf_UP0000" x="3141" y="1318" width="788" height="658" frameX="0" frameY="-11" frameWidth="789" frameHeight="669" />
+<SubTexture name="gf_UP0001" x="2356" y="667" width="785" height="667" frameX="-1" frameY="-2" frameWidth="789" frameHeight="669" />
+</TextureAtlas>

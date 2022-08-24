@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noise.png">
+<SubTexture name="noise0000" x="0" y="0" width="1280" height="720" frameX="-2" frameY="-2" frameWidth="2564" frameHeight="1444" />
+</TextureAtlas>

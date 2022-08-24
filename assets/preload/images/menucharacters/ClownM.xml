@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ClownM.png"><SubTexture name="ClownB0000" x="838" y="0" width="809" height="915" frameX="-14" frameY="-8" frameWidth="885" frameHeight="953" />
+<SubTexture name="ClownB0001" x="0" y="943" width="786" height="880" frameX="-2" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="ClownB0002" x="1647" y="0" width="653" height="911" frameX="-184" frameY="-15" frameWidth="885" frameHeight="953" />
+<SubTexture name="ClownB0003" x="1398" y="943" width="642" height="844" frameX="-141" frameY="-87" frameWidth="885" frameHeight="953" />
+<SubTexture name="ClownB0004" x="786" y="943" width="612" height="877" frameX="-169" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="ClownB0005" x="0" y="0" width="838" height="943" frameX="-45" frameY="-8" frameWidth="885" frameHeight="953" />
+</TextureAtlas>

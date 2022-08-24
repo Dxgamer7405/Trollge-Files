@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3Tres.png"><SubTexture name="IDLE0000" x="1268" y="1862" width="1300" height="883" frameX="-2" frameY="-15" frameWidth="1304" frameHeight="900" />
+<SubTexture name="LEFT0000" x="2436" y="0" width="1236" height="905" frameX="-30" frameY="-14" frameWidth="1287" frameHeight="921" />
+<SubTexture name="LEFT0001" x="0" y="955" width="1237" height="907" frameX="-29" frameY="-12" frameWidth="1287" frameHeight="921" />
+<SubTexture name="RIGHTDOWN0000" x="0" y="1862" width="1268" height="887" frameX="-3" frameY="-39" frameWidth="1296" frameHeight="928" />
+<SubTexture name="UP0000" x="1205" y="0" width="1231" height="932" frameX="-9" frameY="-25" frameWidth="1245" frameHeight="959" />
+<SubTexture name="UP0001" x="0" y="0" width="1205" height="955" frameX="-16" frameY="-2" frameWidth="1245" frameHeight="959" />
+</TextureAtlas>

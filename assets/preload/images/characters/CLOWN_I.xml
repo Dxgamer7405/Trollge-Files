@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CLOWN_I.png"><SubTexture name="CLOWN DOWN0000" x="2955" y="880" width="666" height="864" frameX="-2" frameY="-2" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0001" x="3027" y="2438" width="570" height="819" frameX="-72" frameY="-47" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN FRONT0001" x="3027" y="2438" width="570" height="819" frameX="-72" frameY="-47" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN IDLE0000" x="960" y="1309" width="811" height="915" frameX="-12" frameY="-8" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0001" x="2955" y="0" width="787" height="880" frameX="-2" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0002" x="1771" y="1309" width="653" height="911" frameX="-184" frameY="-15" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0003" x="1143" y="2438" width="642" height="844" frameX="-141" frameY="-87" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN LEFT0000" x="0" y="1309" width="960" height="1129" frameX="-2" frameY="-19" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN LEFT0001" x="1950" y="0" width="1005" height="1138" frameX="-63" frameY="-10" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN RIGHT0000" x="0" y="2438" width="1143" height="875" frameX="-2" frameY="-2" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN RIGHT0001" x="1785" y="2438" width="1242" height="844" frameX="-32" frameY="-33" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN START0001" x="3027" y="2438" width="570" height="819" frameX="-72" frameY="-47" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN UP0000" x="908" y="0" width="1042" height="1165" frameX="-4" frameY="-146" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0001" x="0" y="0" width="908" height="1309" frameX="-119" frameY="-2" frameWidth="1192" frameHeight="1313" />
+</TextureAtlas>

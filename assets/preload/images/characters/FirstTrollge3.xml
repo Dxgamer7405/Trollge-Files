@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FirstTrollge3.png"><SubTexture name="FirstIDLE0000" x="0" y="0" width="964" height="857" frameX="-69" frameY="-101" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0001" x="915" y="857" width="921" height="832" frameX="-84" frameY="-125" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0002" x="0" y="1701" width="1001" height="826" frameX="-68" frameY="-111" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0003" x="2827" y="0" width="908" height="801" frameX="-115" frameY="-53" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0004" x="1906" y="828" width="756" height="807" frameX="-170" frameY="0" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDOWNLEFT0000" x="1906" y="0" width="921" height="828" frameX="-84" frameY="-126" frameWidth="1104" frameHeight="966" />
+<SubTexture name="FirstIDOWNLEFT0001" x="1001" y="1701" width="1080" height="809" frameX="-24" frameY="-91" frameWidth="1104" frameHeight="966" />
+<SubTexture name="FirstRIGHTUP0000" x="964" y="0" width="942" height="850" frameX="-78" frameY="-106" frameWidth="1104" frameHeight="965" />
+<SubTexture name="FirstRIGHTUP0001" x="0" y="857" width="915" height="844" frameX="-94" frameY="-121" frameWidth="1104" frameHeight="965" />
+</TextureAtlas>

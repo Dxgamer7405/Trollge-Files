@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boyfriend_crazy.png"><SubTexture name="DOWN0000" x="1439" y="764" width="327" height="359" frameX="-3" frameY="0" frameWidth="330" frameHeight="359" />
+<SubTexture name="DOWN0001" x="327" y="1253" width="328" height="350" frameX="-1" frameY="-7" frameWidth="330" frameHeight="359" />
+<SubTexture name="UP0000" x="629" y="429" width="359" height="418" frameX="0" frameY="-10" frameWidth="370" frameHeight="429" />
+<SubTexture name="UP0001" x="369" y="0" width="369" height="428" frameX="-1" frameY="0" frameWidth="370" frameHeight="429" />
+<SubTexture name="RIGHT0000" x="385" y="854" width="388" height="392" frameX="0" frameY="0" frameWidth="424" frameHeight="392" />
+<SubTexture name="RIGHT0001" x="773" y="854" width="421" height="386" frameX="-2" frameY="-6" frameWidth="424" frameHeight="392" />
+<SubTexture name="LEFT0000" x="0" y="429" width="312" height="425" frameX="-9" frameY="0" frameWidth="324" frameHeight="426" />
+<SubTexture name="LEFT0001" x="312" y="429" width="317" height="419" frameX="-7" frameY="-6" frameWidth="324" frameHeight="426" />
+<SubTexture name="BF idle dance0000" x="0" y="854" width="385" height="399" frameX="-3" frameY="-7" frameWidth="393" frameHeight="407" />
+<SubTexture name="BF idle dance0001" x="1050" y="406" width="388" height="402" frameX="-3" frameY="-4" frameWidth="393" frameHeight="407" />
+<SubTexture name="BF idle dance0002" x="1050" y="0" width="389" height="406" frameX="-4" frameY="0" frameWidth="393" frameHeight="407" />
+<SubTexture name="BF NOTE DOWN MISS0000" x="0" y="1253" width="327" height="359" frameX="0" frameY="0" frameWidth="327" frameHeight="359" />
+<SubTexture name="Gameover0000" x="1439" y="386" width="358" height="378" frameX="0" frameY="0" frameWidth="358" frameHeight="379" />
+<SubTexture name="BF NOTE LEFT MISS0000" x="738" y="0" width="312" height="426" frameX="0" frameY="0" frameWidth="312" frameHeight="426" />
+<SubTexture name="BF NOTE RIGHT MISS0000" x="1439" y="0" width="422" height="386" frameX="0" frameY="0" frameWidth="422" frameHeight="386" />
+<SubTexture name="BF NOTE UP MISS0000" x="0" y="0" width="369" height="429" frameX="0" frameY="0" frameWidth="369" frameHeight="429" />
+</TextureAtlas>

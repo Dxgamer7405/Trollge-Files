@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trollgesad.png"><SubTexture name="IncidentSad0000" x="0" y="0" width="463" height="692" frameX="-4" frameY="0" frameWidth="471" frameHeight="693" />
+</TextureAtlas>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RageAnim.png"><SubTexture name="RageFinal0000" x="1236" y="1439" width="312" height="566" frameX="-8" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0001" x="1548" y="1439" width="312" height="566" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0002" x="2163" y="0" width="312" height="566" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0003" x="2163" y="566" width="312" height="566" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0004" x="927" y="1439" width="309" height="608" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0005" x="618" y="1439" width="309" height="638" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0006" x="309" y="1439" width="309" height="665" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0007" x="618" y="721" width="309" height="717" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0008" x="618" y="721" width="309" height="717" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0009" x="927" y="721" width="309" height="717" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0010" x="618" y="0" width="309" height="719" frameX="0" frameY="-5" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0011" x="1236" y="721" width="309" height="717" frameX="0" frameY="-7" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0012" x="1854" y="0" width="309" height="715" frameX="0" frameY="-9" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0013" x="1854" y="715" width="309" height="715" frameX="0" frameY="-9" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0014" x="0" y="1439" width="309" height="715" frameX="0" frameY="-9" frameWidth="320" frameHeight="724" />
+<SubTexture name="RageFinal0015" x="0" y="0" width="309" height="721" frameX="0" frameY="-3" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0016" x="1236" y="0" width="309" height="718" frameX="0" frameY="-6" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0017" x="1545" y="717" width="309" height="716" frameX="0" frameY="-8" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0018" x="0" y="721" width="309" height="718" frameX="0" frameY="-6" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0019" x="309" y="721" width="309" height="718" frameX="0" frameY="-6" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0020" x="309" y="0" width="309" height="721" frameX="0" frameY="-3" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0021" x="927" y="0" width="309" height="719" frameX="0" frameY="-5" frameWidth="309" frameHeight="724" />
+<SubTexture name="RageFinal0022" x="1545" y="0" width="309" height="717" frameX="0" frameY="-7" frameWidth="309" frameHeight="724" />
+</TextureAtlas>

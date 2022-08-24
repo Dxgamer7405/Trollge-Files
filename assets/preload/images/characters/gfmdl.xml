@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfmdl.png"><SubTexture name="Down0000" x="0" y="0" width="738" height="767" frameX="-1" frameY="-2" frameWidth="739" frameHeight="769" />
+<SubTexture name="Down0001" x="738" y="0" width="738" height="767" frameX="-1" frameY="0" frameWidth="739" frameHeight="769" />
+<SubTexture name="IDLE0000" x="738" y="767" width="751" height="764" frameX="0" frameY="0" frameWidth="751" frameHeight="764" />
+<SubTexture name="IDLE0001" x="2214" y="0" width="745" height="761" frameX="-1" frameY="-2" frameWidth="751" frameHeight="764" />
+<SubTexture name="IDLE0002" x="0" y="1534" width="738" height="754" frameX="-5" frameY="-4" frameWidth="751" frameHeight="764" />
+<SubTexture name="Left0000" x="738" y="1534" width="738" height="754" frameX="-2" frameY="0" frameWidth="740" frameHeight="754" />
+<SubTexture name="Left0001" x="2959" y="0" width="737" height="750" frameX="0" frameY="-1" frameWidth="740" frameHeight="754" />
+<SubTexture name="Right0000" x="2214" y="761" width="724" height="757" frameX="0" frameY="0" frameWidth="725" frameHeight="757" />
+<SubTexture name="Right0001" x="1489" y="767" width="723" height="756" frameX="-1" frameY="-1" frameWidth="725" frameHeight="757" />
+<SubTexture name="SMILE0000" x="1476" y="1534" width="737" height="754" frameX="0" frameY="0" frameWidth="737" frameHeight="754" />
+<SubTexture name="Up0000" x="1476" y="0" width="738" height="767" frameX="-1" frameY="-2" frameWidth="739" frameHeight="769" />
+<SubTexture name="Up0001" x="0" y="767" width="738" height="767" frameX="-1" frameY="0" frameWidth="739" frameHeight="769" />
+<SubTexture name="WHITE0000" x="2213" y="1534" width="737" height="752" frameX="0" frameY="0" frameWidth="737" frameHeight="754" />
+</TextureAtlas>

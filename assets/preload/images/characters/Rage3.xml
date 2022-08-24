@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rage3.png"><SubTexture name="3TrollgeRageDown0000" x="900" y="1614" width="333" height="560" frameX="-53" frameY="0" frameWidth="421" frameHeight="560" />
+<SubTexture name="3TrollgeRageDown0001" x="1527" y="1614" width="393" height="549" frameX="-15" frameY="-11" frameWidth="421" frameHeight="560" />
+<SubTexture name="3TrollgeRageIdle0000" x="0" y="0" width="409" height="913" frameX="-39" frameY="0" frameWidth="482" frameHeight="913" />
+<SubTexture name="3TrollgeRageLeft0000" x="1233" y="1614" width="294" height="555" frameX="0" frameY="-26" frameWidth="298" frameHeight="581" />
+<SubTexture name="3TrollgeRageLeft0001" x="1939" y="591" width="286" height="573" frameX="-12" frameY="-8" frameWidth="298" frameHeight="581" />
+<SubTexture name="3TrollgeRageRight0000" x="2237" y="544" width="489" height="540" frameX="-28" frameY="-16" frameWidth="517" frameHeight="556" />
+<SubTexture name="3TrollgeRageRight0001" x="2237" y="0" width="489" height="544" frameX="-20" frameY="-12" frameWidth="517" frameHeight="556" />
+<SubTexture name="3TrollgeRageUp0000" x="309" y="1614" width="591" height="580" frameX="-20" frameY="-19" frameWidth="615" frameHeight="599" />
+<SubTexture name="3TrollgeRageUp0001" x="1630" y="0" width="607" height="591" frameX="-8" frameY="-8" frameWidth="615" frameHeight="599" />
+<SubTexture name="FirstAnim0000" x="1630" y="591" width="309" height="589" frameX="-86" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0000" x="0" y="1614" width="309" height="589" frameX="-86" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0001" x="1262" y="913" width="309" height="602" frameX="-86" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0002" x="953" y="913" width="309" height="613" frameX="-86" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0003" x="638" y="913" width="315" height="626" frameX="-81" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0004" x="319" y="913" width="319" height="640" frameX="-76" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0005" x="0" y="913" width="319" height="701" frameX="-74" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0006" x="814" y="0" width="408" height="743" frameX="-74" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="SecondAnim0007" x="1222" y="0" width="408" height="743" frameX="-74" frameY="-170" frameWidth="482" frameHeight="913" />
+<SubTexture name="ThirdAnim0000" x="409" y="0" width="405" height="794" frameX="-77" frameY="-119" frameWidth="482" frameHeight="913" />
+</TextureAtlas>
